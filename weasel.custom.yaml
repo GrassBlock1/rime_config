@@ -1,0 +1,22 @@
+patch:
+  style/horizontal: true
+  style/color_scheme: soak
+  style/layout/candidate_spacing: 6
+  style/display_tray_icon: false
+  style/inline_preedit: true
+  preset_color_schemes:
+    soak:
+      name: nord
+      author: GB
+      text_color: 15326936
+      back_color: 5390907
+      border_color: 5390907
+      label_color: 12689793
+      hilited_text_color: 12689793
+      hilited_back_color: 16052204
+      candidate_text_color: 12689793
+      comment_text_color: 15788517
+      hilited_candidate_text_color: 13680776
+      hilited_comment_text_color: 13680776
+      hilited_candidate_back_color: 16052204
+      hilited_label_color: 13680776

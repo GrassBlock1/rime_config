@@ -1,0 +1,14 @@
+ 
+# Rime dictionary
+# encoding: utf-8
+# https://github.com/Kimiblock/rime-minecraft-dict 的入口
+
+---
+name: mc
+version: "1.21.0"
+# sort: by_weight
+
+import_tables:
+  - rime-minecraft-dict/minecraft_cn
+  - rime-minecraft-dict/minecraft_cn_ext
+  - rime-minecraft-dict/minecraft_en

@@ -1,0 +1,31 @@
+patch:
+  # 自挂接字典
+  "translator/dictionary": rime_ice_ext
+  "liangfen/tag": liangfen
+
+  # 颜文字
+  # https://github.com/iDvel/rime-ice/pull/463
+  "schema/dependencies/@after last": kaomoji
+  "engine/translators/@after last": reverse_lookup_translator@kaomoji
+  # 需要说明的是官方不推荐这样打补丁，可能会有更好的方式
+  # 候选项颜文字
+  abc_segmentor:
+    extra_tags:
+      - kaomoji
+
+  kaomoji:
+    tag: kaomoji
+    dictionary: kaomoji     # 挂载 kaomoji.yaml
+    prefix: "K"              # 以 K 开头来反查
+    enable_completion: true  # 补全提示
+    initial_quality: 9     # 初始权重
+    # tips: 〔颜文字〕          # 反查时显示的文字，建议注释掉，否则很多 i 开头的英文单词也会显示这个
+
+  # rime 似乎没有删除某一项的机制，所以直接复制过来重写
+  recognizer:
+    patterns:  # 再增加方案专有的：
+      punct: "^v([0-9]|10|[A-Za-z]+)$"  # 响应 symbols_v.yaml 的 symbols，用 'v' 替换 '/'
+      liangfen: "^u[a-z]+$"       # 响应两分拼字的反查
+      kaomoji: "^K[a-z]+$"       # 响应颜文字的反查
+      unicode: "^U[a-f0-9]+"            # 响应 Unicode
+      number: "^R[0-9]+[.]?[0-9]*"      # 响应 number_translator

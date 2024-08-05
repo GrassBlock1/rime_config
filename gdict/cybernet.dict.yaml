@@ -1,0 +1,1323 @@
+# Rime dictionary
+# encoding: utf-8
+# 某废物大学生的常用语词库（整理自 rime 的 userdb），以网络、口头、科技用语为主，可能每月更新一次
+
+---
+name: "cybernet"
+version: "2024-08-03"
+sort: by_weight
+
+...
+Prism Launcher	Prism
+WIP	WIP
+啊啊啊啊啊啊啊啊啊啊啊啊	a a a a a a a a a a a a
+啊不对	a bu dui
+啊不实在说	a bu shi zai shuo
+阿米诺斯	a mi nuo si
+唉唉	ai ai
+暗面上	an mian shang
+按照我的	an zhao wo de
+安装试试	an zhuang shi shi
+安装一个	an zhuang yi ge
+把自己也变了	ba zi ji ye bian le
+版聊	ban liao
+半私有化	ban si you hua
+半自建的	ban zi jian de
+绑定的	bang ding de
+帮我写一篇	bang wo xie yi pian
+保持一个	bao chi yi ge
+保存不了	bao cun bu liao
+保存的问题	bao cun de wen ti
+悲报	bei bao
+被吃满了	bei chi man le
+被允许的	bei yun xu de
+本仓库	ben cang ku
+本当下手	ben dang xia shou
+本地时间线	ben di shi jian xian
+笨狐	ben hu
+比较好写的	bi jiao hao xie de
+比较快吧	bi jiao kuai ba
+比较令我	bi jiao ling wo
+比较推荐的	bi jiao tui jian de
+避坑了	bi keng le
+窗口管理器	chuang kou guan li qi
+必须得换了	bi xu dei huan le
+必须填写	bi xu tian xie
+编辑会话	bian ji hui hua
+编辑了一下	bian ji le yi xia
+变简洁	bian jian jie
+编写一个	bian xie yi ge
+变这样了	bian zhe yang le
+标记完	biao ji wan
+标头	biao tou
+病娇	bing jiao
+波兰球	bo lan qiu
+不错欸	bu cuo ei
+不对的话	bu dui de hua
+不敢乱花钱	bu gan luan hua qian
+不够正经	bu gou zheng jing
+不够自由	bu gou zi you
+不过大概	bu guo da gai
+不过都用	bu guo dou yong
+不过换成	bu guo huan cheng
+不过这个是	bu guo zhe ge shi
+不会是什么	bu hui shi shen me
+补了个	bu le ge
+不能水	bu neng shui
+不能跳过	bu neng tiao guo
+不如硅基生命	bu ru gui ji sheng ming
+不是哥们	bu shi ge men
+不是说这个啊	bu shi shuo zhe ge a
+不是一个东西	bu shi yi ge dong xi
+部署之后	bu shu zhi hou
+不太对的样子	bu tai dui de yang zi
+不太能吃	bu tai neng chi
+不太一定	bu tai yi ding
+补完了	bu wan le
+不习惯的话	bu xi guan de hua
+不要也行	bu yao ye xing
+不一样呢	bu yi yang ne
+不用设置	bu yong she zhi
+不知道是不是因为	bu zhi dao shi bu shi yin wei
+草莓罐头	cao mei guan tou
+草师傅	cao shi fu
+测试发件	ce shi fa jian
+测试回复	ce shi hui fu
+查重了吗	cha chong le ma
+查了点	cha le dian
+产生一个	chan sheng yi ge
+唱歌了	chang ge le
+长期运行下去	chang qi yun xing xia qu
+程序权限	cheng xu quan xian
+吃电	chi dian
+吃完饭再说	chi wan fan zai shuo
+重复文章	chong fu wen zhang
+重填一下	chong tian yi xia
+重新编译	chong xin bian yi
+抽大风	chou da feng
+出屋子	chu wu zi
+出现在这里	chu xian zai zhe li
+揣手手	chuai shou shou
+传染了	chuan ran le
+窗管	chuang guan
+纯血	chun xue
+此处应该	ci chu ying gai
+此脚本	ci jiao ben
+此样式	ci yang shi
+从而达到	cong er da dao
+篡改猴	cuan gai hou
+搓不明白	cuo bu ming bai
+搓出来了	cuo chu lai le
+搓点	cuo dian
+搓好了	cuo hao le
+搓了	cuo le
+打包了	da bao le
+打包逻辑	da bao luo ji
+打不开了	da bu kai le
+大概率没有关系	da gai lv mei you guan xi
+大概明白了	da gai ming bai le
+大概是寄了	da gai shi ji le
+大概也无所谓	da gai ye wu suo wei
+大概这样	da gai zhe yang
+大家暂时	da jia zan shi
+打算一会儿	da suan yi hui er
+大延迟	da yan chi
+大于某个数	da yu mou ge shu
+带有格式的	dai you ge shi de
+但大多数时候	dan da duo shu shi hou
+单独的问题	dan du de wen ti
+单独的指示	dan du de zhi shi
+但很奇怪的是	dan hen qi guai de shi
+但看起来	dan kan qi lai
+但是很可爱	dan shi hen ke ai
+但我大受震撼	dan wo da shou zhen han
+单页式	dan ye shi
+但这个	dan zhe ge
+党的二十大	dang de er shi da
+党的根本组织原则	dang de gen ben zu zhi yuan ze
+当时这个	dang shi zhe ge
+当我尝试	dang wo chang shi
+当下的	dang xia de
+倒拔	dao ba
+到底是怎么了	dao di shi zen me le
+导入什么	dao ru shen me
+导致现在	dao zhi xian zai
+导致需要	dao zhi xu yao
+的步骤	de bu zhou
+的反应	de fan ying
+的高度	de gao du
+的更新	de geng xin
+的海	de hai
+的还有	de hai you
+的函数	de han shu
+的后果	de hou guo
+的会议	de hui yi
+的加速	de jia su
+的交换	de jiao huan
+的结构	de jie gou
+的解码器	de jie ma qi
+的进度条	de jin du tiao
+的精神状态	de jing shen zhuang tai
+的来着	de lai zhe
+的链接	de lian jie
+的链接时	de lian jie shi
+的目录	de mu lu
+的排版	de pai ban
+的频道	de pin dao
+的上一级	de shang yi ji
+的示例	de shi li
+的视频	de shi pin
+的输出	de shu chu
+的调整	de tiao zheng
+的同学	de tong xue
+的文章	de wen zhang
+的形式	de xing shi
+的应用	de ying yong
+的用户	de yong hu
+的语言	de yu yan
+的元素	de yuan su
+的原因是	de yuan yin shi
+的云层	de yun ceng
+的整合包	de zheng he bao
+的桌子	de zhuo zi
+的字体	de zi ti
+的资源	de zi yuan
+得睡觉去了	dei shui jiao qu le
+等参数	deng can shu
+噔噔咚	deng deng dong
+登录墙	deng lu qiang
+等我给你补上	deng wo gei ni bu shang
+等我看看	deng wo kan kan
+等我找个	deng wo zhao ge
+等我找找	deng wo zhao zhao
+第二天了	di er tian le
+地址栏输入	di zhi lan shu ru
+点击的	dian ji de
+点击了	dian ji le
+点击任何	dian ji ren he
+点击一个	dian ji yi ge
+电脑上的	dian nao shang de
+点燃他们	dian ran ta men
+叠甲	die jia
+定价的	ding jia de
+丢过去	diu guo qu
+都白费了	dou bai fei le
+都别想活着	dou bie xiang huo zhe
+都出不来	dou chu bu lai
+都好有意思	dou hao you yi si
+都合上了	dou he shang le
+都很震撼	dou hen zhen han
+都怀疑是	dou huai yi shi
+都能干得出来	dou neng gan de chu lai
+都陷害我是吧	dou xian hai wo shi ba
+都学什么	dou xue shen me
+都已被	dou yi bei
+读得好好的	du de hao hao de
+读取不到	du qu bu dao
+读取用户	du qu yong hu
+杜叔叔	du shu shu
+端口名称	duan kou ming cheng
+断网的时候	duan wang de shi hou
+对别人的话	dui bie ren de hua
+对外军事	dui wai jun shi
+对应的服务	dui ying de fu wu
+对应文件夹	dui ying wen jian jia
+对于这个	dui yu zhe ge
+对中文	dui zhong wen
+多出的	duo chu de
+多了点东西	duo le dian dong xi
+多了一行字	duo le yi hang zi
+多装	duo zhuang
+恶魔轮盘	e mo lun pan
+欸欸欸	ei ei ei
+二人的友情	er ren de you qing
+而我还在研究	er wo hai zai yan jiu
+而这是	er zhe shi
+发布也不迟	fa bu ye bu chi
+发的消息	fa de xiao xi
+发挥国家	fa hui guo jia
+发了一些	fa le yi xie
+发情了	fa qing le
+发生了一点	fa sheng le yi dian
+发生任何事	fa sheng ren he shi
+发送给您	fa song gei nin
+发消息了	fa xiao xi le
+翻译还是有点	fan yi hai shi you dian
+反应反应	fan ying fan ying
+放点东西	fang dian dong xi
+放那几个	fang na ji ge
+放在哪里的	fang zai na li de
+放在一起部署	fang zai yi qi bu shu
+非常好主题	fei chang hao zhu ti
+非常可恶的	fei chang ke wu de
+废弃了	fei qi le
+费什么	fei shen me
+非时政	fei shi zheng
+分别配置	fen bie pei zhi
+分数缩放	fen shu suo fang
+覆面	fu mian
+服务好了	fu wu hao le
+服务开在	fu wu kai zai
+复现了	fu xian le
+辅修了	fu xiu le
+概率性地	gai lv xing di
+改完之后	gai wan zhi hou
+改这个	gai zhe ge
+改组成	gai zu cheng
+感觉被	gan jue bei
+感觉不如	gan jue bu ru
+感觉会很好吃	gan jue hui hen hao chi
+感觉你这个	gan jue ni zhe ge
+感觉这个	gan jue zhe ge
+干了点事情	gan le dian shi qing
+刚才看了	gang cai kan le
+刚才想起来	gang cai xiang qi lai
+刚才折腾	gang cai zhe teng
+刚出的	gang chu de
+刚想说	gang xiang shuo
+高级界面	gao ji jie mian
+个人化的	ge ren hua de
+格式化的时候	ge shi hua de shi hou
+给每个	gei mei ge
+给你一拳	gei ni yi quan
+给咱	gei zan
+给这个	gei zhe ge
+根据不同	gen ju bu tong
+根据它	gen ju ta
+跟据我	gen ju wo
+更尬的	geng ga de
+更高级一些	geng gao ji yi xie
+更便宜	geng pian yi
+更新过后	geng xin guo hou
+更新很顺利	geng xin hen shun li
+更新了什么	geng xin le shen me
+更新了一下	geng xin le yi xia
+更有好一点	geng you hao yi dian
+更着更着	geng zhe geng zhe
+工程来源	gong cheng lai yuan
+攻击之后	gong ji zhi hou
+恭喜您的	gong xi nin de
+固定了	gu ding le
+估计又要	gu ji you yao
+咕噜咕噜咕噜	gu lu gu lu gu lu
+古早	gu zao
+挂错	gua cuo
+怪插件	guai cha jian
+怪书	guai shu
+怪在软件	guai zai ruan jian
+关掉就好了	guan diao jiu hao le
+官网都是	guan wang dou shi
+广东辣	guang dong la
+规则的时候	gui ze de shi hou
+规则之后	gui ze zhi hou
+滚动到	gun dong dao
+滚过	gun guo
+过度注意	guo du zhu yi
+国防巩固	guo fang gong gu
+国防强大的根基	guo fang qiang da de gen ji
+国内吧	guo nei ba
+过于形象	guo yu xing xiang
+哈人的	ha ren de
+哈人喵	ha ren miao
+还不一定知道	hai bu yi ding zhi dao
+还得自己	hai dei zi ji
+还多了个	hai duo le ge
+还怪合理的	hai guai he li de
+还好没事	hai hao mei shi
+还很重要	hai hen zhong yao
+还没试过	hai mei shi guo
+还没修	hai mei xiu
+还能更新的	hai neng geng xin de
+还缺点	hai que dian
+还是被影响	hai shi bei ying xiang
+还是不工作	hai shi bu gong zuo
+还是不可用	hai shi bu ke yong
+还是不太一样	hai shi bu tai yi yang
+还是不小心	hai shi bu xiao xin
+还是产生了	hai shi chan sheng le
+还是先说这个问题吧	hai shi xian shuo zhe ge wen ti ba
+还是有问题	hai shi you wen ti
+还挺厉害的	hai ting li hai de
+还要花钱	hai yao hua qian
+还有高手	hai you gao shou
+还有一段	hai you yi duan
+还有一种	hai you yi zhong
+还在维护的	hai zai wei hu de
+还真不会	hai zhen bu hui
+还做不太到	hai zuo bu tai dao
+汗流浃背了	han liu jia bei le
+好大一个	hao da yi ge
+好多纸箱子	hao duo zhi xiang zi
+好恶毒	hao e du
+好过的	hao guo de
+好精致的	hao jing zhi de
+好看看	hao kan kan
+好快的	hao kuai de
+好了欸	hao le ei
+好像不得行	hao xiang bu de xing
+好像不得行啊	hao xiang bu de xing a
+好像不太支持	hao xiang bu tai zhi chi
+好像不在	hao xiang bu zai
+好像确实有	hao xiang que shi you
+好严格啊	hao yan ge a
+核安全观	he an quan guan
+合并样式	he bing yang shi
+黑白图标	hei bai tu biao
+很多内存	hen duo nei cun
+很方便的	hen fang bian de
+很哈人	hen ha ren
+很灵车	hen ling che
+很怕事	hen pa shi
+很涩	hen se
+哼哼哼啊啊啊	heng heng heng a a a
+后端域名	hou duan yu ming
+后果就是	hou guo jiu shi
+后台也能看得到	hou tai ye neng kan de dao
+后续看看	hou xu kan kan
+狐狐	hu hu
+狐狐震惊	hu hu zhen jing
+画耳朵	hua er duo
+花了三天	hua le san tian
+花钱的大头	hua qian de da tou
+画星星	hua xing xing
+怀个旧	huai ge jiu
+坏哦	huai o
+坏耶	huai ye
+换到了	huan dao le
+换过来吧	huan guo lai ba
+换行了吗	huan hang le ma
+换了之后	huan le zhi hou
+换区	huan qu
+换完之后	huan wan zhi hou
+幻翼	huan yi
+换用为	huan yong wei
+换源	huan yuan
+会被认为是	hui bei ren wei shi
+会被我	hui bei wo
+会比这个	hui bi zhe ge
+会挡住	hui dang zhu
+会多考虑一下	hui duo kao lv yi xia
+会发送失败	hui fa song shi bai
+恢复吧	hui fu ba
+恢复代码	hui fu dai ma
+会来嘛	hui lai ma
+会慢慢	hui man man
+会那么宽	hui na me kuan
+会跑到	hui pao dao
+会去嘛	hui qu ma
+会先把	hui xian ba
+会议提出的	hui yi ti chu de
+会这么想	hui zhe me xiang
+混流	hun liu
+魂器	hun qi
+昏睡红茶	hun shui hong cha
+混用法	hun yong fa
+获得的	huo de de
+获得一款	huo de yi kuan
+火绒呢	huo rong ne
+或者在	huo zhe zai
+iptables	iptables
+即答	ji da
+记得吃晚饭	ji de chi wan fan
+记得喝水	ji de he shui
+记得收拾	ji de shou shi
+几个参数	ji ge can shu
+几乎没怎么用	ji hu mei zen me yong
+即可访问	ji ke fang wen
+即可退出	ji ke tui chu
+几年前就开始用	ji nian qian jiu kai shi yong
+即使没用	ji shi mei yong
+即使现在	ji shi xian zai
+极限省流	ji xian sheng liu
+极致了属于是	ji zhi le shu yu shi
+加模糊	jia mo hu
+加载不能	jia zai bu neng
+加载出来的	jia zai chu lai de
+家长不了解	jia zhang bu liao jie
+家这边	jia zhe bian
+见不到的	jian bu dao de
+检测到的	jian ce dao de
+检查能力	jian cha neng li
+简单不少	jian dan bu shao
+健康的人	jian kang de ren
+监控面板	jian kong mian ban
+兼容的	jian rong de
+见上	jian shang
+建议还是	jian yi hai shi
+讲个鬼故事	jiang ge gui gu shi
+脚本猫	jiao ben mao
+脚本设置	jiao ben she zhi
+节点能用	jie dian neng yong
+解析为	jie xi wei
+解析笑点	jie xi xiao dian
+节制一点	jie zhi yi dian
+金凡	jin fan
+仅供试听	jin gong shi ting
+今年的	jin nian de
+今日有的学	jin ri you de xue
+进入了页面	jin ru le ye mian
+今天被	jin tian bei
+今天趁着	jin tian chen zhe
+今天能回家	jin tian neng hui jia
+今天谁要	jin tian shei yao
+今天太晚了	jin tian tai wan le
+近现代史纲要	jin xian dai shi gang yao
+经我测试	jing wo ce shi
+静音了	jing yin le
+净用	jing yong
+竞争力派	jing zheng li pai
+旧版的	jiu ban de
+就不远了	jiu bu yuan le
+旧的文章	jiu de wen zhang
+就好很多	jiu hao hen duo
+就会快很多	jiu hui kuai hen duo
+就将其	jiu jiang qi
+就可以写	jiu ke yi xie
+就能跑了	jiu neng pao le
+就要多了	jiu yao duo le
+就这样的	jiu zhe yang de
+距离学校	ju li xue xiao
+距离最近的一集	ju li zui jin de yi ji
+居然不支持	ju ran bu zhi chi
+居然支持	ju ran zhi chi
+卡死在	ka si zai
+开的开	kai de kai
+开更	kai geng
+开起来了	kai qi lai le
+开学日期可还行	kai xue ri qi ke hai xing
+开这个	kai zhe ge
+看到更新	kan dao geng xin
+看过的东西	kan guo de dong xi
+看看火锅	kan kan huo guo
+看看你的	kan kan ni de
+看看日志	kan kan ri zhi
+看了一眼设置	kan le yi yan she zhi
+看他是	kan ta shi
+看这集	kan zhe ji
+看注释	kan zhu shi
+考虑的就要多了	kao lv de jiu yao duo le
+考试堆在一起的感觉	kao shi dui zai yi qi de gan jue
+可能含有	ke neng han you
+可能会比	ke neng hui bi
+可能会有机会	ke neng hui you ji hui
+可能可行	ke neng ke xing
+可能老师	ke neng lao shi
+可能是为了	ke neng shi wei le
+可能是因为	ke neng shi yin wei
+可能算吧	ke neng suan ba
+可能需要	ke neng xu yao
+可能也许似乎	ke neng ye xu si hu
+可能真的会	ke neng zhen de hui
+可能只是因为	ke neng zhi shi yin wei
+可信域名	ke xin yu ming
+可以开关的	ke yi kai guan de
+可以离开了	ke yi li kai le
+可以让我	ke yi rang wo
+可以手动	ke yi shou dong
+可以这样	ke yi zhe yang
+刻意追	ke yi zhui
+可以走我	ke yi zou wo
+可这是	ke zhe shi
+空降助手	kong jiang zhu shou
+苦手	ku shou
+快递不方便	kuai di bu fang bian
+快捷键的	kuai jie jian de
+快弄好了	kuai nong hao le
+垃圾机器	la ji ji qi
+垃圾路由器	la ji lu you qi
+来的真快	lai de zhen kuai
+来看好了	lai kan hao le
+来提建议	lai ti jian yi
+懒着	lan zhe
+牢记自己	lao ji zi ji
+老是想吐	lao shi xiang tu
+立刻进行	li ke jin xing
+理论成就	li lun cheng jiu
+里面都有啥	li mian dou you sha
+里面还要	li mian hai yao
+里面也有	li mian ye you
+里面主要就是说	li mian zhu yao jiu shi shuo
+两大矛盾	liang da mao dun
+良心一些	liang xin yi xie
+列表里的	lie biao li de
+烈焰之杖	lie yan zhi zhang
+领导全国	ling dao quan guo
+另两种呢	ling liang zhong ne
+另外一个问题	ling wai yi ge wen ti
+另一台设备上	ling yi tai she bei shang
+流畅的多呢	liu chang de duo ne
+留着的	liu zhe de
+漏水了	lou shui le
+漏油器的	lou you qi de
+乱猜的啊	luan cai de a
+铝铜	lv tong
+略微借助了	lve wei jie zhu le
+猫棒	mao bang
+猫饼	mao bing
+冒犯了	mao fan le
+猫猫都快	mao mao dou kuai
+猫猫手搓	mao mao shou cuo
+猫片	mao pian
+猫鼠队	mao shu dui
+没报名的	mei bao ming de
+没比过	mei bi guo
+每次断了	mei ci duan le
+每次听	mei ci ting
+没登录	mei deng lu
+没登录过	mei deng lu guo
+没登录了	mei deng lu le
+没法创建	mei fa chuang jian
+没法上网	mei fa shang wang
+没挂上	mei gua shang
+没看了	mei kan le
+没拿出来	mei na chu lai
+没弄好	mei nong hao
+没配	mei pei
+没配明白	mei pei ming bai
+每天都感觉很累	mei tian dou gan jue hen lei
+没想到是	mei xiang dao shi
+没想到这么久	mei xiang dao zhe me jiu
+没写一样	mei xie yi yang
+每一个列表	mei yi ge lie biao
+没用上	mei yong shang
+没有亮	mei you liang
+没有没	mei you mei
+没有使用	mei you shi yong
+没有显卡	mei you xian ka
+没怎么用	mei zen me yong
+没追上	mei zhui shang
+梦里啥都有	meng li sha dou you
+面板中	mian ban zhong
+勉强能用的	mian qiang neng yong de
+鸣潮	ming chao
+明明可以	ming ming ke yi
+明天交给	ming tian jiao gei
+明天找时间	ming tian zhao shi jian
+摸摸喵	mo mo miao
+默认打开的	mo ren da kai de
+默认给出的	mo ren gei chu de
+模板的	mu ban de
+那不应该是	na bu ying gai shi
+那大概	na da gai
+那顶多	na ding duo
+那刚才	na gang cai
+那个插件	na ge cha jian
+那估计	na gu ji
+那怪了	na guai le
+那还是算了	na hai shi suan le
+那还算是	na hai suan shi
+那就打开	na jiu da kai
+那可能吧	na ke neng ba
+那里面的	na li mian de
+那两张	na liang zhang
+那目前	na mu qian
+那能否	na neng fou
+那似乎	na si hu
+那天的图	na tian de tu
+那我这个插件	na wo zhe ge cha jian
+那也不够啊	na ye bu gou a
+那应该会	na ying gai hui
+那应该没问题	na ying gai mei wen ti
+那这确实有一点大	na zhe que shi you yi dian da
+那主包	na zhu bao
+奶冰	nai bing
+挠头傻笑	nao tou sha xiao
+内容会更多	nei rong hui geng duo
+内容加载	nei rong jia zai
+内容是不是	nei rong shi bu shi
+内置的	nei zhi de
+能不能改成	neng bu neng gai cheng
+能冻结	neng dong jie
+能放到	neng fang dao
+能放什么	neng fang shen me
+能否使用	neng fou shi yong
+能更新	neng geng xin
+能删除	neng shan chu
+能设置	neng she zhi
+能用的	neng yong de
+能阻止	neng zu zhi
+能做出什么	neng zuo chu shen me
+你打的	ni da de
+你得问	ni dei wen
+你火星了	ni huo xing le
+你就是啊	ni jiu shi a
+你没打	ni mei da
+你能解释一下	ni neng jie shi yi xia
+你容我	ni rong wo
+你说它	ni shuo ta
+拟态成	ni tai cheng
+你再回去	ni zai hui qu
+你找窝	ni zhao wo
+你这购物车	ni zhe gou wu che
+您别说	nin bie shuo
+您不如直接说	nin bu ru zhi jie shuo
+您是比较有	nin shi bi jiao you
+您早说啊	nin zao shuo a
+弄完之后	nong wan zhi hou
+哦看懂了	o kan dong le
+哦您	o nin
+排版的话	pai ban de hua
+判卷	pan juan
+跑到后面	pao dao hou mian
+跑的是	pao de shi
+配菜好多啊	pei cai hao duo a
+佩奇大学	pei qi da xue
+劈腿的	pi tui de
+平常用的时候	ping chang yong de shi hou
+破烂运气	po lan yun qi
+破字典	po zi dian
+起床之后再看	qi chuang zhi hou zai kan
+奇怪壁纸	qi guai bi zhi
+其实是说	qi shi shi shuo
+其实是因为	qi shi shi yin wei
+其实也不是不行	qi shi ye bu shi bu xing
+其实用过了	qi shi yong guo le
+其中的	qi zhong de
+迁往了	qian wang le
+迁移过去	qian yi guo qu
+强行联系	qiang xing lian xi
+敲字	qiao zi
+请尝试解释	qing chang shi jie shi
+请给出一个	qing gei chu yi ge
+清理中	qing li zhong
+轻量工具箱	qing liang gong ju xiang
+请求到	qing qiu dao
+请求的	qing qiu de
+请手动	qing shou dong
+请替我	qing ti wo
+请务必通过	qing wu bi tong guo
+请以你的名字呼唤我	qing yi ni de ming zi hu huan wo
+请在网上	qing zai wang shang
+求个包	qiu ge bao
+去黑边	qu hei bian
+全宽度	quan kuan du
+权限管理器	quan xian guan li qi
+确实不能吃	que shi bu neng chi
+却一个没有	que yi ge mei you
+群里面之前	qun li mian zhi qian
+群友的	qun you de
+群友拿出来	qun you na chu lai
+然后看	ran hou kan
+然后上	ran hou shang
+热点的	re dian de
+人都这样	ren dou zhe yang
+任何域名	ren he yu ming
+人家获得	ren jia huo de
+仍然比较简单	reng ran bi jiao jian dan
+日语的话	ri yu de hua
+揉脸	rou lian
+如果不是那种	ru guo bu shi na zhong
+如果不这样的话	ru guo bu zhe yang de hua
+如果可行	ru guo ke xing
+如何备份	ru he bei fen
+如何阻止	ru he zu zhi
+如换	ru huan
+如有需要	ru you xu yao
+软件吧	ruan jian ba
+润色润色	run se run se
+萨卡班甲鱼	sa ka ban jia yu
+杀了点	sha le dian
+晒到了	shai dao le
+删除不能	shan chu bu neng
+删掉的	shan diao de
+删掉一些	shan diao yi xie
+删文件	shan wen jian
+商单	shang dan
+上了一个	shang le yi ge
+上手改	shang shou gai
+上完这个	shang wan zhe ge
+设定上讲	she ding shang jiang
+设定一个	she ding yi ge
+社团也行	she tuan ye xing
+设置的值	she zhi de zhi
+设置正确	she zhi zheng que
+谁会疯	shei hui feng
+谁控制了	shei kong zhi le
+甚为离谱	shen wei li pu
+生成手办	sheng cheng shou ban
+生成域名	sheng cheng yu ming
+识别字幕	shi bie zi mu
+是不是要	shi bu shi yao
+是不行的吗	shi bu xing de ma
+使得其	shi de qi
+是懂	shi dong
+是方便	shi fang bian
+是否仍然	shi fou reng ran
+是福瑞	shi fu rui
+是个数字	shi ge shu zi
+是固定的	shi gu ding de
+是互通的吗	shi hu tong de ma
+时局图	shi ju tu
+失去了颜色	shi qu le yan se
+是说你那个	shi shuo ni na ge
+是说我吗	shi shuo wo ma
+是随机的	shi sui ji de
+是挺闲得没事的	shi ting xian de mei shi de
+使我的	shi wo de
+是我的问题	shi wo de wen ti
+实现一段	shi xian yi duan
+是想把	shi xiang ba
+是想要	shi xiang yao
+是要做什么	shi yao zuo shen me
+使用不同	shi yong bu tong
+是有什么	shi you shen me
+是在什么	shi zai shen me
+是怎么个	shi zen me ge
+是炸的	shi zha de
+是找不到	shi zhao bu dao
+是这个哦	shi zhe ge o
+是正常	shi zheng chang
+是正确的	shi zheng que de
+实装了	shi zhuang le
+手动操作一次	shou dong cao zuo yi ci
+手动指定	shou dong zhi ding
+收集到的	shou ji dao de
+手机开了个	shou ji kai le ge
+手机开热点	shou ji kai re dian
+手上这台	shou shang zhe tai
+数据不会丢失	shu ju bu hui diu shi
+数学体系	shu xue ti xi
+属于是	shu yu shi
+刷不出来	shua bu chu lai
+刷成	shua cheng
+刷坏了	shua huai le
+刷新列表	shua xin lie biao
+刷一下	shua yi xia
+双栏	shuang lan
+睡多过	shui duo guo
+睡了睡了	shui le shui le
+水土不容	shui tu bu rong
+说的事情	shuo de shi qing
+死不掉的	si bu diao de
+似乎不会	si hu bu hui
+似乎不是	si hu bu shi
+似乎不太一样	si hu bu tai yi yang
+似乎不太正常	si hu bu tai zheng chang
+似乎可以	si hu ke yi
+似乎没有这个	si hu mei you zhe ge
+似乎是的	si hu shi de
+似乎也是	si hu ye shi
+似乎已经是	si hu yi jing shi
+似乎用的	si hu yong de
+送给猫猫	song gei mao mao
+搜索了一下	sou suo le yi xia
+算是见到了	suan shi jian dao le
+算是让他	suan shi rang ta
+碎了碎了	sui le sui le
+虽然二者	sui ran er zhe
+虽然感觉	sui ran gan jue
+虽然看完之后感觉	sui ran kan wan zhi hou gan jue
+虽然似乎	sui ran si hu
+虽然我不会用	sui ran wo bu hui yong
+虽然我不觉得	sui ran wo bu jue de
+虽然我觉得	sui ran wo jue de
+虽然也能吧	sui ran ye neng ba
+虽然有点延迟	sui ran you dian yan chi
+虽然咱有	sui ran zan you
+所能理解的	suo neng li jie de
+所以什么	suo yi shen me
+所以我还是	suo yi wo hai shi
+所以我就	suo yi wo jiu
+所以这就是为什么	suo yi zhe jiu shi wei shen me
+所用到的	suo yong dao de
+他是懂	ta shi dong
+他说的是真的	ta shuo de shi zhen de
+太高级了	tai gao ji le
+太灵车	tai ling che
+太逆天了	tai ni tian le
+太生草	tai sheng cao
+太折磨了	tai zhe mo le
+弹性盒子	tan xing he zi
+套娃是吧	tao wa shi ba
+特定基准	te ding ji zhun
+腾出一些空间	teng chu yi xie kong jian
+替大家看了	ti da jia kan le
+提到的视频	ti dao de shi pin
+替换一点	ti huan yi dian
+提前跑路	ti qian pao lu
+提前睡	ti qian shui
+填词翻唱	tian ci fan chang
+填东西	tian dong xi
+添加环境变量	tian jia huan jing bian liang
+跳过不就好了	tiao guo bu jiu hao le
+调试一个	tiao shi yi ge
+挑一点	tiao yi dian
+挑战列表	tiao zhan lie biao
+听出了	ting chu le
+听懂了就好	ting dong le jiu hao
+挺符合	ting fu he
+挺干净的	ting gan jing de
+挺随机啊	ting sui ji a
+同步不了	tong bu bu liao
+通过判断	tong guo pan duan
+通过热点	tong guo re dian
+通过自定义	tong guo zi ding yi
+通知的时候	tong zhi de shi hou
+通知铃声	tong zhi ling sheng
+通知声	tong zhi sheng
+通知音	tong zhi yin
+投食	tou shi
+头套	tou tao
+图里面是	tu li mian shi
+突然就能	tu ran jiu neng
+拖到上面	tuo dao shang mian
+外挂文件	wai gua wen jian
+外面天气	wai mian tian qi
+万一人家是	wan yi ren jia shi
+网格跑者	wang ge pao zhe
+忘了这茬	wang le zhe cha
+往里丢	wang li diu
+网炸了	wang zha le
+网站开源	wang zhan kai yuan
+网站来说	wang zhan lai shuo
+味道会很	wei dao hui hen
+维护这个包	wei hu zhe ge bao
+为难人家了	wei nan ren jia le
+我把东西	wo ba dong xi
+我不到啊	wo bu dao a
+我不好吃	wo bu hao chi
+我不会改	wo bu hui gai
+我不能理解	wo bu neng li jie
+我才是那个	wo cai shi na ge
+窝纯靠	wo chun kao
+我大概明白了	wo da gai ming bai le
+窝的	wo de
+我的仓库	wo de cang ku
+我的系统镜像	wo de xi tong jing xiang
+我的终端	wo de zhong duan
+我都不用了	wo dou bu yong le
+我都用	wo dou yong
+我都有点	wo dou you dian
+我读的	wo du de
+我发的	wo fa de
+我翻翻	wo fan fan
+我翻了翻	wo fan le fan
+我改改	wo gai gai
+我改回	wo gai hui
+我刚才尝试	wo gang cai chang shi
+我刚才发现	wo gang cai fa xian
+我估计真的	wo gu ji zhen de
+我国国防	wo guo guo fang
+我还不确定	wo hai bu que ding
+我还没见到	wo hai mei jian dao
+我还没下	wo hai mei xia
+我还要改	wo hai yao gai
+我很真不知道	wo hen zhen bu zhi dao
+我换一个	wo huan yi ge
+我会放在	wo hui fang zai
+我几乎都会	wo ji hu dou hui
+窝家	wo jia
+我家长也是	wo jia zhang ye shi
+我将以	wo jiang yi
+我觉得还好	wo jue de hai hao
+我觉得可行	wo jue de ke xing
+我觉得挺好的	wo jue de ting hao de
+我看不懂了	wo kan bu dong le
+我看好像	wo kan hao xiang
+我看着我的	wo kan zhe wo de
+我懒了	wo lan le
+我没想到	wo mei xiang dao
+我没找到	wo mei zhao dao
+我没这么做	wo mei zhe me zuo
+我能不能	wo neng bu neng
+我让他试试	wo rang ta shi shi
+我是憨憨	wo shi han han
+我是护理	wo shi hu li
+我是说笔记本	wo shi shuo bi ji ben
+我是怎么	wo shi zen me
+我手边的	wo shou bian de
+我手上这个	wo shou shang zhe ge
+我说的就是	wo shuo de jiu shi
+我搜的是	wo sou de shi
+我网站	wo wang zhan
+我闻闻	wo wen wen
+我现在的问题是	wo xian zai de wen ti shi
+我想不通为什么	wo xiang bu tong wei shen me
+我想起来这个	wo xiang qi lai zhe ge
+窝也	wo ye
+我也没买啊	wo ye mei mai a
+我也收藏了	wo ye shou cang le
+我也说不上来	wo ye shuo bu shang lai
+我也希望	wo ye xi wang
+我也要不了啊	wo ye yao bu liao a
+我也有点	wo ye you dian
+窝一般是	wo yi ban shi
+我遇到了	wo yu dao le
+我在用	wo zai yong
+我暂且蒙古	wo zan qie meng gu
+我暂时不管了	wo zan shi bu guan le
+我这边看起来正常	wo zhe bian kan qi lai zheng chang
+我折腾	wo zhe teng
+我这些	wo zhe xie
+窝真的谢谢他了	wo zhen de xie xie ta le
+我直接就	wo zhi jie jiu
+我只看到了	wo zhi kan dao le
+我主要用的	wo zhu yao yong de
+我装不上	wo zhuang bu shang
+我装的	wo zhuang de
+我自己呀	wo zi ji ya
+务必检查	wu bi jian cha
+细看了一眼	xi kan le yi yan
+系统代理	xi tong dai li
+系统代理炸了	xi tong dai li zha le
+系统监视器	xi tong jian shi qi
+洗澡的时候	xi zao de shi hou
+下方的	xia fang de
+吓跑了啊	xia pao le a
+下完之后	xia wan zhi hou
+下周是	xia zhou shi
+现成配置	xian cheng pei zhi
+现代乐器	xian dai yue qi
+陷害我这是	xian hai wo zhe shi
+显示出来的	xian shi chu lai de
+显示封面	xian shi feng mian
+先有一个	xian you yi ge
+现在才想起来	xian zai cai xiang qi lai
+现在来	xian zai lai
+现在这个路由器	xian zai zhe ge lu you qi
+现在这个情况	xian zai zhe ge qing kuang
+先折腾这个	xian zhe teng zhe ge
+想把我	xiang ba wo
+像被压扁了	xiang bei ya bian le
+想传一张图	xiang chuan yi zhang tu
+想到的	xiang dao de
+相对完善了之后	xiang dui wan shan le zhi hou
+想放在别的地方	xiang fang zai bie de di fang
+项目页	xiang mu ye
+项目中的	xiang mu zhong de
+相性	xiang xing
+想要使用	xiang yao shi yong
+相应地	xiang ying di
+小板子	xiao ban zi
+小表格	xiao biao ge
+笑的	xiao de
+效仿了一下	xiao fang le yi xia
+小核	xiao he
+小脚本	xiao jiao ben
+消息多	xiao xi duo
+消息是从	xiao xi shi cong
+小小小声	xiao xiao xiao sheng
+小约翰可汗	xiao yue han ke han
+小只	xiao zhi
+写出东西	xie chu dong xi
+写个去重	xie ge qu chong
+写前端	xie qian duan
+谢谢猫猫	xie xie mao mao
+写作之旅	xie zuo zhi lv
+新博文	xin bo wen
+新活	xin huo
+新旧格局	xin jiu ge ju
+新军事革命	xin jun shi ge ming
+行走的终端	xing zou de zhong duan
+修改了一部分	xiu gai le yi bu fen
+修改以后	xiu gai yi hou
+修整好了	xiu zheng hao le
+需要被	xu yao bei
+选好了	xuan hao le
+雪王	xue wang
+学习板块	xue xi ban kuai
+学校的样子	xue xiao de yang zi
+学也没学会	xue ye mei xue hui
+压不到	ya bu dao
+压缩了个	ya suo le ge
+颜色呢	yan se ne
+要背着	yao bei zhe
+要不要给	yao bu yao gei
+要充钱	yao chong qian
+要订阅的	yao ding yue de
+要更新的	yao geng xin de
+要好好吃饭	yao hao hao chi fan
+要用的一组	yao yong de yi zu
+要煮熟	yao zhu shou
+也抱抱	ye bao bao
+也变	ye bian
+也不坏	ye bu huai
+也不是不可能	ye bu shi bu ke neng
+也不是不能	ye bu shi bu neng
+也不是不行	ye bu shi bu xing
+也不太怕死	ye bu tai pa si
+也不用问	ye bu yong wen
+也撑不住	ye cheng bu zhu
+也戴上	ye dai shang
+也搞上来吧	ye gao shang lai ba
+也还行	ye hai xing
+也换一张	ye huan yi zhang
+也欢迎	ye huan ying
+也可以实现	ye ke yi shi xian
+也没有啦	ye mei you la
+也能接受	ye neng jie shou
+也是不能的	ye shi bu neng de
+也是一件好事	ye shi yi jian hao shi
+也是有的	ye shi you de
+也长这样	ye zhang zhe yang
+也正常	ye zheng chang
+也只是会	ye zhi shi hui
+一定很	yi ding hen
+一堆问题	yi dui wen ti
+一个地区	yi ge di qu
+一个分区	yi ge fen qu
+一个服务	yi ge fu wu
+一个后端	yi ge hou duan
+一个列表	yi ge lie biao
+一个目录	yi ge mu lu
+一个使用	yi ge shi yong
+一个源码	yi ge yuan ma
+以及不知道	yi ji bu zhi dao
+以及处理掉	yi ji chu li diao
+已经开	yi jing kai
+已经能	yi jing neng
+已经算	yi jing suan
+已经走	yi jing zou
+一看到这个	yi kan dao zhe ge
+一看是	yi kan shi
+一看用到	yi kan yong dao
+以前的那个	yi qian de na ge
+以上一行	yi shang yi hang
+一手自用	yi shou zi yong
+疑似能	yi si neng
+疑似要	yi si yao
+疑似有那么一点多了	yi si you na me yi dian duo le
+已投降	yi tou xiang
+意外实参	yi wai shi can
+一位学生	yi wei xue sheng
+一样大的好了	yi yang da de hao le
+移植过来	yi zhi guo lai
+阴间的时间	yin jian de shi jian
+音频可视化	yin pin ke shi hua
+因为卡	yin wei ka
+因为名字	yin wei ming zi
+因为他善	yin wei ta shan
+因为我只是一个	yin wei wo zhi shi yi ge
+因为要开	yin wei yao kai
+应当从	ying dang cong
+应该会比	ying gai hui bi
+应该就可以了	ying gai jiu ke yi le
+应该看的人更多	ying gai kan de ren geng duo
+应该是不开	ying gai shi bu kai
+应该是可行的	ying gai shi ke xing de
+应该是能的	ying gai shi neng de
+硬件的话	ying jian de hua
+硬控	ying kong
+硬盘贵	ying pan gui
+英文就好了	ying wen jiu hao le
+用不了了	yong bu liao le
+用的来的	yong de lai de
+用核显	yong he xian
+用户只需要	yong hu zhi xu yao
+用进去	yong jin qu
+用了之后	yong le zhi hou
+用里面的	yong li mian de
+用命令	yong ming ling
+用一两个	yong yi liang ge
+用用看	yong yong kan
+用这个的时候	yong zhe ge de shi hou
+用这个模型	yong zhe ge mo xing
+用这么久	yong zhe me jiu
+右边的是好的	you bian de shi hao de
+又不能用	you bu neng yong
+有场景的话	you chang jing de hua
+有点差	you dian cha
+有点费	you dian fei
+有点费劲	you dian fei jin
+有点可怕	you dian ke pa
+有点上古	you dian shang gu
+有点吓人	you dian xia ren
+有东西嘛	you dong xi ma
+有工作就行	you gong zuo jiu xing
+优化模组	you hua mo zu
+有几张图	you ji zhang tu
+有辣椒	you la jiao
+有两家	you liang jia
+有两种方法	you liang zhong fang fa
+有啥抄啥	you sha chao sha
+又是被	you shi bei
+又双	you shuang
+有提供	you ti gong
+有问题啊	you wen ti a
+有一点多了	you yi dian duo le
+有一点看法	you yi dian kan fa
+又炸了	you zha le
+又装了个	you zhuang le ge
+预构建的	yu gou jian de
+预览到	yu lan dao
+于是自己	yu shi zi ji
+欲望了	yu wang le
+与我不同	yu wo bu tong
+原来你也是	yuan lai ni ye shi
+原来你有	yuan lai ni you
+原来要	yuan lai yao
+原料多	yuan liao duo
+原因就是	yuan yin jiu shi
+原因就是这个	yuan yin jiu shi zhe ge
+越改越坏了	yue gai yue huai le
+运行下去	yun xing xia qu
+在编译	zai bian yi
+在不同的地方	zai bu tong de di fang
+再次回答这个问题	zai ci hui da zhe ge wen ti
+再次迁移	zai ci qian yi
+在打了	zai da le
+在防范	zai fang fan
+在根目录下时	zai gen mu lu xia shi
+在看了	zai kan le
+在看了喵	zai kan le miao
+再买一台	zai mai yi tai
+再排查吧	zai pai cha ba
+在前端	zai qian duan
+在世界的	zai shi jie de
+再讨厌	zai tao yan
+在推荐里	zai tui jian li
+在写一种	zai xie yi zhong
+在这么一个	zai zhe me yi ge
+在终端中	zai zhong duan zhong
+在桌面	zai zhuo mian
+在最上面	zai zui shang mian
+咱尝试	zan chang shi
+咱打算	zan da suan
+咱觉得	zan jue de
+咱来说	zan lai shuo
+赞哦	zan o
+暂时蒙古	zan shi meng gu
+咱用的	zan yong de
+咱自己的	zan zi ji de
+Zeabur	zeabur
+站点内部	zhan dian nei bu
+展示给	zhan shi gei
+找到了个	zhao dao le ge
+找个试试	zhao ge shi shi
+找了另外	zhao le ling wai
+这板子	zhe ban zi
+这不对吧	zhe bu dui ba
+这不是在	zhe bu shi zai
+这不是在说	zhe bu shi zai shuo
+这次可以	zhe ci ke yi
+这段逻辑	zhe duan luo ji
+这段命令	zhe duan ming ling
+这儿有一个	zhe er you yi ge
+这个步骤	zhe ge bu zhou
+这个车次	zhe ge che ci
+这个的时候	zhe ge de shi hou
+这个还是	zhe ge hai shi
+这个好写	zhe ge hao xie
+这个价格	zhe ge jia ge
+这个建筑	zhe ge jian zhu
+这个可能	zhe ge ke neng
+这个配置	zhe ge pei zhi
+这个软件库	zhe ge ruan jian ku
+这个是说	zhe ge shi shuo
+这个数据目录	zhe ge shu ju mu lu
+这个帖子	zhe ge tie zi
+这个文件里	zhe ge wen jian li
+这个我倒知道	zhe ge wo dao zhi dao
+这个我之前看到过	zhe ge wo zhi qian kan dao guo
+这个主要是	zhe ge zhu yao shi
+这个字体	zhe ge zi ti
+这个作者	zhe ge zuo zhe
+这好像	zhe hao xiang
+这话不假	zhe hua bu jia
+这就不奇怪了	zhe jiu bu qi guai le
+这就尴尬了	zhe jiu gan ga le
+这就挺好	zhe jiu ting hao
+这可给我	zhe ke gei wo
+这里当作	zhe li dang zuo
+这里需要	zhe li xu yao
+这么了解	zhe me liao jie
+这么灵车	zhe me ling che
+这么玩是吧	zhe me wan shi ba
+这么一想	zhe me yi xiang
+这频道	zhe pin dao
+这破网	zhe po wang
+这是被	zhe shi bei
+这是不是可以	zhe shi bu shi ke yi
+这是故意的	zhe shi gu yi de
+这是他的	zhe shi ta de
+这是一条	zhe shi yi tiao
+这是原版	zhe shi yuan ban
+这条就是	zhe tiao jiu shi
+这玩意儿的	zhe wan yi er de
+这玩意儿真的	zhe wan yi er zhen de
+这网络	zhe wang luo
+这下看懂了	zhe xia kan dong le
+这下可以	zhe xia ke yi
+这消息	zhe xiao xi
+这些文章	zhe xie wen zhang
+这修正带	zhe xiu zheng dai
+这样不会	zhe yang bu hui
+这样带出去	zhe yang dai chu qu
+这样看起来	zhe yang kan qi lai
+这样看有点	zhe yang kan you dian
+这样也不是不行	zhe yang ye bu shi bu xing
+这样应该	zhe yang ying gai
+这样子啊	zhe yang zi a
+这样子呢	zhe yang zi ne
+这真的能	zhe zhen de neng
+这真的像	zhe zhen de xiang
+这种环境下	zhe zhong huan jing xia
+这主题	zhe zhu ti
+这组件	zhe zu jian
+真的建议嘛	zhen de jian yi ma
+真的允许	zhen de yun xu
+臻音	zhen yin
+整了点	zheng le dian
+整理成了	zheng li cheng le
+整理代码	zheng li dai ma
+政治的	zheng zhi de
+只会让我	zhi hui rang wo
+直接访问不可	zhi jie fang wen bu ke
+直接进	zhi jie jin
+直接进门	zhi jie jin men
+直接用嘴吧	zhi jie yong zui ba
+直连了	zhi lian le
+之前就	zhi qian jiu
+之前用的	zhi qian yong de
+之前找	zhi qian zhao
+至少得	zhi shao dei
+芝士什么	zhi shi shen me
+只是政治的话	zhi shi zheng zhi de hua
+执行了	zhi xing le
+只修了	zhi xiu le
+只要搭配上	zhi yao da pei shang
+只要我不作死	zhi yao wo bu zuo si
+只要一个	zhi yao yi ge
+只有第一项	zhi you di yi xiang
+只有两天在考试	zhi you liang tian zai kao shi
+只有一条消息	zhi you yi tiao xiao xi
+中国早期	zhong guo zao qi
+终于看到	zhong yu kan dao
+注册好了	zhu ce hao le
+住的屋子	zhu de wu zi
+注入成功	zhu ru cheng gong
+主题试试	zhu ti shi shi
+主要是这个说法	zhu yao shi zhe ge shuo fa
+抓完	zhua wan
+专栏文集	zhuan lan wen ji
+装的太多了	zhuang de tai duo le
+装了一个	zhuang le yi ge
+准备的数据	zhun bei de shu ju
+准备的一样	zhun bei de yi yang
+准确来说是这个	zhun que lai shuo shi zhe ge
+自定义了一下	zi ding yi le yi xia
+自定义性	zi ding yi xing
+自定域名	zi ding yu ming
+自己打上	zi ji da shang
+自己加上	zi ji jia shang
+自己手动	zi ji shou dong
+自己锁的	zi ji suo de
+自己在画	zi ji zai hua
+自剪	zi jian
+自建的	zi jian de
+子目录	zi mu lu
+总之比较麻烦	zong zhi bi jiao ma fan
+足够多爱	zu gou duo ai
+最初想的是	zui chu xiang de shi
+最后运行的	zui hou yun xing de
+最近会把	zui jin hui ba
+最先发动的是	zui xian fa dong de shi
+最终内容	zui zhong nei rong
+做过头了	zuo guo tou le
+昨天失败了	zuo tian shi bai le
+昨晚看的时候	zuo wan kan de shi hou
+作为回复	zuo wei hui fu
+作为示例	zuo wei shi li
+作为数据库	zuo wei shu ju ku
+做一张	zuo yi zhang
+作战纲要	zuo zhan gang 

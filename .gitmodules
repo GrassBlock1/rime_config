@@ -1,0 +1,3 @@
+[submodule "gdict/rime-minecraft-dict"]
+	path = gdict/rime-minecraft-dict
+	url = https://github.com/Kimiblock/rime-minecraft-dict.git

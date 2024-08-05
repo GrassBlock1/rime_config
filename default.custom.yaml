@@ -1,0 +1,17 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3_dev_0.8
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Fri Apr 28 10:51:23 2023"
+  rime_version: 1.8.5
+patch:
+  # 仅使用「雾凇拼音」的默认配置，配置此行即可
+  __include: rime_ice_suggestion:/
+  schema_list:
+    - {schema: rime_ice}
+    - {schema: double_pinyin}
+    - {schema: double_pinyin_flypy}
+    - {schema: double_pinyin_mspy}
+    - {schema: luna_quanpin}
+    - {schema: melt_eng}
+  menu/page_size: 7
