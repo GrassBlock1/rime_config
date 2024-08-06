@@ -3,6 +3,10 @@ patch:
   "translator/dictionary": rime_ice_ext
   "liangfen/tag": liangfen
 
+  # 自动纠错，默认关闭，去除 # 即可开启
+  # https://github.com/iDvel/rime-ice/blob/main/others/iRime/iRime%20%E5%85%A8%E9%94%AE%E7%9B%98/rime_ice.custom.yaml#L12
+  #translator/enable_correction: true
+
   # 颜文字
   # https://github.com/iDvel/rime-ice/pull/463
   "schema/dependencies/@after last": kaomoji
