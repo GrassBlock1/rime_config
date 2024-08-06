@@ -18,7 +18,7 @@ import_tables:
   #- en_dicts/cn_en_flypy.txt
   - gdict/427   # 自造词
   - gdict/cybernet # 常用语
-  - gdict/rime-minecraft-dict/minecraft_cn
+  - gdict/rime-minecraft-dict/minecraft_cn # Minecraft 词库
   - gdict/rime-minecraft-dict/minecraft_cn_ext
   - gdict/rime-minecraft-dict/minecraft_en
 

@@ -1,7 +1,6 @@
 patch:
   # 自挂接字典
   "translator/dictionary": rime_ice_ext
-  "liangfen/tag": liangfen
 
   # 自动纠错，默认关闭，去除 # 即可开启
   # https://github.com/iDvel/rime-ice/blob/main/others/iRime/iRime%20%E5%85%A8%E9%94%AE%E7%9B%98/rime_ice.custom.yaml#L12
@@ -28,8 +27,9 @@ patch:
   # rime 似乎没有删除某一项的机制，所以直接复制过来重写
   recognizer:
     patterns:  # 再增加方案专有的：
-      punct: "^v([0-9]|10|[A-Za-z]+)$"  # 响应 symbols_v.yaml 的 symbols，用 'v' 替换 '/'
-      liangfen: "^u[a-z]+$"       # 响应两分拼字的反查
-      kaomoji: "^K[a-z]+$"       # 响应颜文字的反查
-      unicode: "^U[a-f0-9]+"            # 响应 Unicode
-      number: "^R[0-9]+[.]?[0-9]*"      # 响应 number_translator
+        punct: "^V([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_caps_v.yaml 的 symbols
+        radical_lookup: "^uU[a-z]+$"        # 响应部件拆字的反查，与 radical_lookup/prefix 匹配
+        unicode: "^U[a-f0-9]+"              # 脚本将自动获取第 2 个字符 U 作为触发前缀，响应 lua_translator@unicode，输出 Unicode 字符
+        number: "^R[0-9]+[.]?[0-9]*"        # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_translator，数字金额大写
+        gregorian_to_lunar: "^N[0-9]{1,8}"  # 脚本将自动获取第 2 个字符 N 作为触发前缀，响应 lua_translator@lunar，公历转农历，输入 N20240115 得到「二〇二三年腊月初五」
+        kaomoji: "^K[a-z]+$" # 响应颜文字反查
