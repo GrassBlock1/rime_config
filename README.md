@@ -2,6 +2,8 @@
 
 ![splash](./images/splash.png)
 
+（截图内主题：[Reverier-Xu/Fluent-fcitx5: A Fluent-Design theme with blur effect and shadow for fcitx5.](https://github.com/Reverier-Xu/Fluent-fcitx5)）
+
 基于[雾凇拼音](https://github.com/iDvel/rime-ice)的 rime 配置（补丁），为小鹤双拼用户提供特别优化。
 
 需要先行安装 Rime 以及加载好 雾凇拼音 的配置，参考：[雾凇拼音的使用说明](https://github.com/iDvel/rime-ice?tab=readme-ov-file#使用说明)
@@ -39,11 +41,35 @@ git clone https://github.com/GrassBlock1/rime_config /path/to/rime_config
 git clone https://codeberg.org/grassblock/rime /path/to/rime_config
 ```
 
+随后初始化用于 Minecraft 词典的 submodules：
+
+```shell
+git submodule update --init
+```
+
 2. 直接下载 zip
    - GitHub： 绿色的 Code > Download zip  |   🔗 [下载链接](https://github.com/Grassblock1/rime_config/archive/refs/heads/main.zip)
    - Codeberg： ··· > 下载 zip  |  🔗 [下载链接](https://codeberg.org/grassblock/rime/archive/master.zip)
 
 将**rime-master（或者 rime/master）中的文件**解压到 rime 的配置目录即可。
+
+之后下载 Minecraft 词库，解压放在 `gdict/rime-minecraft-dict` 中，🔗[下载链接](https://github.com/Kimiblock/rime-minecraft-dict/archive/refs/heads/master.zip)
+
+3. 一键脚本
+
+   对于 Fcitx5 rime 用户，可以使用以下的命令来安装和更新：
+
+   ```shell
+   git clone https://codeberg.org/grassblock/rime /tmp/gb_rime && git submodule update --init && cp -r /tmp/gb_rime ~/.local/share/fcitx5/rime && rm -rf /tmp/gb_rime && echo done
+   ```
+
+   或者：
+
+   （需要先行安装 `unzip` 和 `curl`）
+
+   ```shell
+   curl "https://codeberg.org/grassblock/rime/archive/master.zip" -o /tmp/rime.zip && unzip /tmp/rime.zip -d /tmp/rime0 && curl -L https://github.com/Kimiblock/rime-minecraft-dict/archive/refs/heads/master.zip -o /tmp/rime0/mc-dict.zip && unzip /tmp/rime0/mc-dict.zip -d /tmp/rime0/rime/gdict && mv /tmp/rime0/rime/gdict/rime-minecraft-dict-master /tmp/rime0/rime/gdict/rime-minecraft-dict && cp /tmp/rime0/rime ~/.local/share/fcitx5/rime && rm -r /tmp/rime0 && rm /tmp/rime.zip && echo done
+   ```
 
 ## 特别感谢
 
