@@ -1,8 +1,9 @@
 # encoding: utf-8
+# 主要词库，不定时更新
 
 ---
 name: "427"
-version: "1.0.0"
+version: "1.0.1"
 sort: by_weight
 
 
@@ -14,4 +15,11 @@ ILLENIUM	illenium
 谋智	mozilla
 鸣潮	ming chao
 iptables	iptables
+nftables	nftables
+时之沙	shi zhi sha
+网格跑者	wang ge pao zhe
+王牌竞速	wang pai jing su
+熔毁	rong hui
+mcc	mcc
+MC Championship	mcc
 
