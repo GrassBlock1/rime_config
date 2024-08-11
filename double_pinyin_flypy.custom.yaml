@@ -26,6 +26,7 @@ patch:
 
   # rime 似乎没有删除某一项的机制，所以直接复制过来重写
   recognizer:
+    import_preset: default  # 从 default.yaml 继承通用的
     patterns:  # 再增加方案专有的：
         punct: "^V([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_caps_v.yaml 的 symbols
         radical_lookup: "^uU[a-z]+$"        # 响应部件拆字的反查，与 radical_lookup/prefix 匹配
