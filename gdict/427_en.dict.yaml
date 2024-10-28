@@ -1,0 +1,21 @@
+# encoding: utf-8
+# 主要词库，不定时更新
+
+---
+name: "427_en"
+version: "1.0.3"
+sort: by_weight
+
+
+...
+Zeabur	zeabur
+ILLENIUM	illenium
+iptables	iptables
+nftables	nftables
+mcc	mcc
+MC Championship	mcc
+TIL	TIL
+Today I learned	TIL
+grassblock	grassblock
+Suzume	si zi mie
+
