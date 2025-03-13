@@ -1,16 +1,15 @@
 patch:
-  #grammar:
-  #  # 语言模型，启动！
-  #  language: amz-v2n3m1-zh-hans
-  #  collocation_max_length: 5
-  #  collocation_min_length: 2
-  #  translator/contextual_suggestions: true
-  #  translator/max_homophones: 7
-  #  translator/max_homographs: 7
+  grammar:
+    # 语言模型，启动！
+    language: amz-v2n3m1-zh-hans
+    collocation_max_length: 5
+    collocation_min_length: 2
+    translator/contextual_suggestions: true
+    translator/max_homophones: 7
+    translator/max_homographs: 7
 
   # 自挂接字典
-  translator:
-    dictionary: rime_ice_ext
+  "translator/dictionary": rime_ice_ext
 
   # 自动纠错，默认关闭，去除 # 即可开启
   # https://github.com/iDvel/rime-ice/blob/main/others/iRime/iRime%20%E5%85%A8%E9%94%AE%E7%9B%98/rime_ice.custom.yaml#L12
@@ -18,9 +17,8 @@ patch:
 
   # 颜文字
   # https://github.com/iDvel/rime-ice/pull/463
-  "schema/dependencies/@after last": kaomoji
-  "engine/translators/@after last": reverse_lookup_translator@kaomoji
-  # 需要说明的是官方不推荐这样打补丁，可能会有更好的方式
+  "schema/dependencies/+": kaomoji
+  "engine/translators/+": reverse_lookup_translator@kaomoji
 
   # 中英文之间自动加空格
   # https://github.com/iDvel/rime-ice/issues/1174
@@ -36,7 +34,7 @@ patch:
 
   kaomoji:
     tag: kaomoji
-    dictionary: kaomoji     # 挂载 kaomoji.yaml
+    dictionary: kaomoji     # 挂载 kaomoji.dict.yaml
     # prefix: "K"              # 以 K 开头来反查
     enable_completion: true  # 补全提示
     initial_quality: 9     # 初始权重
