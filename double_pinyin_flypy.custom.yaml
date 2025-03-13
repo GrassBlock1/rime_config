@@ -17,8 +17,8 @@ patch:
 
   # 颜文字
   # https://github.com/iDvel/rime-ice/pull/463
-  "schema/dependencies/+": kaomoji
-  "engine/translators/+": reverse_lookup_translator@kaomoji
+  #"schema/dependencies/+": kaomoji
+  #"engine/translators/+": reverse_lookup_translator@kaomoji
 
   # 中英文之间自动加空格
   # https://github.com/iDvel/rime-ice/issues/1174
@@ -28,14 +28,14 @@ patch:
     - lua_filter@*en_spacer
 
   # 候选项颜文字
-  abc_segmentor:
-    extra_tags:
-      - kaomoji
+  #abc_segmentor:
+  #  extra_tags:
+  #    - kaomoji
 
-  kaomoji:
-    tag: kaomoji
-    dictionary: kaomoji     # 挂载 kaomoji.dict.yaml
+  #kaomoji:
+  #  tag: kaomoji
+  #  dictionary: kaomoji     # 挂载 kaomoji.dict.yaml
     # prefix: "K"              # 以 K 开头来反查
-    enable_completion: true  # 补全提示
-    initial_quality: 9     # 初始权重
+  #  enable_completion: true  # 补全提示
+  #  initial_quality: 9     # 初始权重
     # tips: 〔颜文字〕          # 反查时显示的文字，建议注释掉，否则很多 k 开头的英文单词也会显示这个
